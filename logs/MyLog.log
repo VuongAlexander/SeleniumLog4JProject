@@ -1,0 +1,15 @@
+[INFO ] 2022-09-06 11:11:52.233 [main] Log4jDemo - Open Yahoo
+[WARN ] 2022-09-06 11:11:52.239 [main] Log4jDemo - Thread Sleep: 2000
+[WARN ] 2022-09-06 11:12:00.917 [main] Log4jDemo - Thread Sleep: 2000
+[WARN ] 2022-09-06 11:12:03.946 [main] Log4jDemo - Thread Sleep: 2000
+[WARN ] 2022-09-06 11:12:06.078 [main] Log4jDemo - Thread Sleep: 2000
+[INFO ] 2022-09-06 11:12:08.082 [main] Log4jDemo - Enter first name
+[WARN ] 2022-09-06 11:12:08.165 [main] Log4jDemo - Thread Sleep: 2000
+[INFO ] 2022-09-06 11:12:10.171 [main] Log4jDemo - Enter last name
+[WARN ] 2022-09-06 11:12:10.245 [main] Log4jDemo - Thread Sleep: 2000
+[INFO ] 2022-09-06 11:12:12.247 [main] Log4jDemo - Enter userID
+[WARN ] 2022-09-06 11:12:12.329 [main] Log4jDemo - Thread Sleep: 2000
+[INFO ] 2022-09-06 11:12:14.343 [main] Log4jDemo - Enter password
+[WARN ] 2022-09-06 11:12:14.416 [main] Log4jDemo - Thread Sleep: 2000
+[INFO ] 2022-09-06 11:12:16.420 [main] Log4jDemo - Enter birth year
+[INFO ] 2022-09-06 11:12:16.949 [main] Log4jDemo - Click continue
